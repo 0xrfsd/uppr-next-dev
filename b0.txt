@@ -1,0 +1,16 @@
+UPPERNODES (attrbs)
+x
+BUILDER 
+X
+API (data)
+
+BUILD(API):<Front/Back> => {
+    paginas estaticas(pre-configuradas pra req, res com API);
+}
+
+// papel do build gerar as paginas do template comunicando 
+// build cuida do DNS e do Deploy
+
+Netlify
+MoveWeb
+AWS
